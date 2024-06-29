@@ -2,6 +2,7 @@ nginx
 talebook/talebook
 janeczku/calibre-web
 halcyonazure/lsky-pro-docker
+docker-library/mysql
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
